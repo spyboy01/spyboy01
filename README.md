@@ -1,7 +1,7 @@
-<h1>Hey there, I'm <a  href="https://github.com/spyboy01">Sandeep Singh</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+   ### Hi there, I'm Sandeep Singh ![Hi](https://user-images.githubusercontent.com/33487986/173641674-01e08813-6a7c-4334-9378-aec4cc286bc6.gif)
 
-
-
+[![linkedin badge](https://img.shields.io/badge/sandeepsingh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeep-kumar-singh-436906121/)
+[![Gmail Badge](https://img.shields.io/badge/sandeepsingh.nita@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:sandeepsingh.nita@gmail.com)
 <!--
 **spyboy01/spyboy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
