@@ -2,6 +2,9 @@
 
 [![linkedin badge](https://img.shields.io/badge/sandeepsingh-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeep-kumar-singh-436906121/)
 [![Gmail Badge](https://img.shields.io/badge/sandeepsingh.nita@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:sandeepsingh.nita@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=spyboy01&style=plastic" />
+
 <!--
 **spyboy01/spyboy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
