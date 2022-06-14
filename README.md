@@ -5,6 +5,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=spyboy01&style=plastic" />
 
+
+I'm currently working as **SDE at EFI INDIA**. <br>
+I've graduated from **NIT Agartala** as **Computer Science Engineer** in 2019. 
+<br>
+
 <!--
 **spyboy01/spyboy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
