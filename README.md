@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=spyboy01&style=plastic" />
 
 
-I'm currently working as **SDE at EFI INDIA**. <br>
+I'm currently working as **SDE at Bentley Systems**. <br>
 I've graduated from **NIT Agartala** as **Computer Science Engineer** in 2019. 
 <br>
 
