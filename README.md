@@ -6,9 +6,12 @@
 <img src="https://komarev.com/ghpvc/?username=spyboy01&style=plastic" />
 
 
-I'm currently working as **SDE at Bentley Systems**. <br>
-I've graduated from **NIT Agartala** as **Computer Science Engineer** in 2019. 
-<br>
+I'm working as **Software Development Engineer at Bentley Systems**. <br>
+I graduated from **NIT Agartala** as **Computer Science Engineer** in 2019.
+Passionate about backend development, DevOps, full-stack solutions and contributing to impactful projects. Proficient in C++, Python, TypeScript and experienced with various tools and frameworks including Docker, Kubernetes, and Git/GitLab. Always eager to learn and innovate.
+<be>
+ 
+
 
 <!--
 **spyboy01/spyboy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
