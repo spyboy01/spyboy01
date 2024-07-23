@@ -8,7 +8,7 @@
 
 I'm working as **Software Development Engineer at Bentley Systems**. <br>
 I graduated from **NIT Agartala** as **Computer Science Engineer** in 2019.
-Passionate about backend development, DevOps, full-stack solutions and contributing to impactful projects. Proficient in C++, Python, TypeScript and experienced with various tools and frameworks including Docker, Kubernetes, and Git/GitLab. Always eager to learn and innovate.
+Passionate about backend development, DevOps, full-stack solutions and contributing to impactful projects. Proficient in C++, Python, TypeScript and experienced with various tools and frameworks including Docker, Kubernetes and Git/GitLab. Always eager to learn and innovate.
 <be>
  
 
